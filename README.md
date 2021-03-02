@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alana Morais</h1>
 <h3 align="center">AI Developer</h3> 
 
-- 🔭 I’m currently working on Python, R and Julia.
+- 🔭 I’m currently working on Python, R and Julia and teaching Java, C and Desing Patterns at university.
 - 👯 I’m looking to collaborate anywhere
 - 💬 Ask me about Machine Learning, Data Science, Design Patterns, Object-Oriented Programming
 - ⚡ Fun fact: I don't like Coca Cola.
