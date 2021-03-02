@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alana%20Morais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alana-morais/)](https://www.linkedin.com/in/alana-morais/)
