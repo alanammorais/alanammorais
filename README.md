@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alana Morais</h1>
-<h3 align="center">AI Developer [![Linkedin Badge](https://img.shields.io/badge/-Alana%20Morais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alana-morais/)](https://www.linkedin.com/in/alana-morais/)</h3>
+<h3 align="center">AI Developer</h3> [![Linkedin Badge](https://img.shields.io/badge/-Alana%20Morais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alana-morais/)](https://www.linkedin.com/in/alana-morais/)
 
 - 🔭 I’m currently working on Python, Java, R and Julia.
 - 👯 I’m looking to collaborate anywhere
