@@ -18,7 +18,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vscode](https://img.shields.io/badge/VSCode-6383E8?style=for-the-badge&logo=)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=orange)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
